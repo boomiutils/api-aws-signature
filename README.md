@@ -15,7 +15,7 @@ Refer to included [Test Classes](https://github.com/boomiutils/BoomiUtility/tree
 mvn compile
 
 # To run the tests and generate the artifacts
-mv package
+mvn package
 ```
 
 ### Building
