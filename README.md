@@ -1,4 +1,4 @@
-# Boomi Utility Classes
+# Signing Utility Classes
 
 Utlity classes to simplify version 4 signing requirements for AWS web services calls.
 
@@ -7,6 +7,16 @@ Utlity classes to simplify version 4 signing requirements for AWS web services c
 ## Usage
 
 Refer to included [Test Classes](https://github.com/boomiutils/BoomiUtility/tree/master/src/test/java/com/boomi) for examples.
+
+## Build
+
+```
+# To build the project
+mvn compile
+
+# To run the tests and generate the artifacts
+mv package
+```
 
 ### Building
 
